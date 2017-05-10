@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Semana3</string>
+    <string name="app_name" translatable="false">Proyecto de Semana 3</string>
+    <string name="titulo_bienvenida">Bienvenido!</string>
+    <string name="boton_entrar">Entrar</string>
 </resources>
